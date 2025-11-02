@@ -1,4 +1,3 @@
-## Global-Superstore-Dashboard
 ## Global Superstore Data Analysis with Power BI
 
 Introduction Welcome to the "Global Superstore Data Analysis" project! This repository contains a comprehensive data analysis and visualization project using Power BI, focusing on the Global Superstore dataset. This dataset represents a fictitious retail store with a global footprint, providing insights into various aspects of its business operations, such as sales, profits, customer demographics, and regional performance.
