@@ -2,8 +2,6 @@
 
 Introduction Welcome to the "Global Superstore Data Analysis" project! This repository contains a comprehensive data analysis and visualization project using Power BI, focusing on the Global Superstore dataset. This dataset represents a fictitious retail store with a global footprint, providing insights into various aspects of its business operations, such as sales, profits, customer demographics, and regional performance.
 
-## Global_Superstore
-
 The purpose of this project is to analyze key performance metrics, identify trends, and uncover actionable insights that can drive strategic decision-making for the business. The analysis covers multiple dimensions, including sales performance, profitability, product categories, and customer segments across different geographies.
 
 ## Objective The primary objectives of this project are:
