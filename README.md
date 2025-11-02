@@ -29,7 +29,9 @@ Customer Analysis: Understanding customer segments, lifetime value, and purchasi
 Regional Performance: Identifying high-performing and underperforming regions, and understanding regional trends. Product Analysis: Analyzing product performance, including top and bottom-performing products. Operational Metrics: Tracking key operational metrics such as shipping costs, delivery times, and order processing. 
 Insights and Recommendations: Summarizing the key findings from the analysis, providing actionable recommendations for business strategy, such as targeting high-value customer segments, optimizing inventory levels, or improving regional marketing campaigns.
 
-## Key Features of the Power BI Dashboard The Power BI dashboard developed for this project includes several key features:
+## Key Features of the Power BI Dashboard 
+
+The Power BI dashboard developed for this project includes several key features:
 
 Dynamic Filters and Slicers: Allowing users to filter data by region, product category, customer segment, and time period. Interactive Visualizations: A combination of bar charts, line graphs, pie charts, maps, and scatter plots to provide an intuitive understanding of the data. 
 Custom KPIs: Tailored key performance indicators (KPIs) to track critical metrics like total sales, profit margin, customer retention, and regional performance. 
